@@ -1,0 +1,4 @@
+# Created at 2022-04-14T20:39:32.034
+Boot Manifest-JAR contains absolute paths in classpath 'D:\MY DOCUMENT\15. ALTERA COURSE\IMERSIVE PROGRAM\QE3-Serenity-Web-Agung\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"FB - login","User has failed to login FB","SUCCESS","2022-04-14T20:39:33.548+07:00[Asia/Bangkok]","0.0","12.12"
+"Orange HRM - CRUD Employee Data","User add Orange HRM employee Successfully","ERROR","2022-04-14T20:39:46.999+07:00[Asia/Bangkok]","0.0","16.07"
+"Orange HRM - CRUD Employee Data","user read Orange HRM employee list Successfully","FAILURE","2022-04-14T20:40:03.868+07:00[Asia/Bangkok]","0.0","9.64"
+"Orange HRM - CRUD Employee Data","User update Orange HRM employee Successfully","ERROR","2022-04-14T20:40:14.193+07:00[Asia/Bangkok]","0.0","9.83"
+"Orange HRM - CRUD Employee Data","User delete Orange HRM employee successfully","ERROR","2022-04-14T20:40:24.7+07:00[Asia/Bangkok]","0.0","9.53"
+"Orange HRM - Login","user login Orange HRM successfuly","FAILURE","2022-04-14T20:40:34.944+07:00[Asia/Bangkok]","0.0","7.61"
